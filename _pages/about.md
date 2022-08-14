@@ -21,9 +21,9 @@ Publications
 ---
 Before my PhD, I collaborated on a few interesting studies involving various combiations of plants, genetics, and volatile metablomics, which you can read about in my [Publications](https://kelsey-winkeler.github.io/publications/) tab.
 
-Portfolio
+Clinical Portfolio
 ---
-I am also a clinical psychology PhD student at the [Psychological Services Center](https://support.psyc.vt.edu/centers/psc) of Virginia Tech. If you want to learn about my clinical experience and expertise, check out the [Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
+I am also a clinical psychology PhD student at the [Psychological Services Center](https://support.psyc.vt.edu/centers/psc) of Virginia Tech. If you want to learn about my clinical experience and expertise, check out the [Clinical Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
 
 Teaching
 ---
