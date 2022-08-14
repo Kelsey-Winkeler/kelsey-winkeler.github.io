@@ -37,7 +37,7 @@ If you'd like to learn a little about me outside of school, you can check out th
 
 CV
 ---
-Finally, if you're just here because you want to download my CV, click [CV](https://kelsey-winkeler.github.io/files/KW_CV.pdf/) for a PDF.
+Finally, if you're just here because you want to download my CV, click [CV](https://kelsey-winkeler.github.io/files/KW_CV.pdf) for a PDF.
 
 
 
