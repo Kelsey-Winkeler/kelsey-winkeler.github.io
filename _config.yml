@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Kelsey Winkeler"
 title_separator          : "-"
 name                     : &name "Kelsey Winkeler"
-description              : &description "Clinical Psychology PhD Student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Kelsey Winkeler - Clinical Psychology PhD Student at Fralin Biomedical Research Institute at Virginia Tech Carillion"
+url                      : https://kelsey-winkeler.github.io # the base hostname & protocol for your site e.g. "https://kelsey-winkeler.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kelsey-winkeler/kelsey-winkeler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kelsey Winkeler"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "PhD Student in the Chiu and King-Casas Labs"
+  location         : "Roanoke, Virginia"
+  employer         : "Fralin Biomedical Research Center at Virginia Tech Carillion"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=9LwogW0AAAAJ&hl=en&oi=ao"
+  email            : "kwinkeler @ vt dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kelsey-winkeler"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9452-9428"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@kelsey_winkeler"
   vine             :
   weibo            :
   xing             :
