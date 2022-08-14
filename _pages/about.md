@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+Thanks for visiting my website!
+---
+
+I am a graduate student researcher in Brooks King-Casas and Pearl Chiu's labs in the [Computational Psychiatry Unit](https://fbri.vtc.vt.edu/research/research-centers/center-for-human-neuroscience/computational-psychiatry-unit.html) at [Fralin Biomedical Research Institute of Virginia Tech Carillion](https://fbri.vtc.vt.edu/). 
+
 Talks
 ---
-Thanks for visiting my website! I am a graduate student researcher in Brooks King-Casas and Pearl Chiu's labs in the Computational Psychiatry Unit at Fralin Biomedical Research Institute of Virginia Tech Carillion. My research focuses on interpersonal interactions in Veterans with PTSD, using economic games and fMRI, and while I haven't published on it (yet), you can learn a little about it under the [Talks](https://kelsey-winkeler.github.io/talks/) tab. 
+My research focuses on interpersonal interactions in Veterans with PTSD, using economic games and fMRI, and while I haven't published on it (yet), you can learn a little about it under the [Talks](https://kelsey-winkeler.github.io/talks/) tab. 
 
 Publications
 ---
