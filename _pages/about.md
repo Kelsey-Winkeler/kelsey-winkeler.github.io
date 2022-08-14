@@ -11,7 +11,7 @@ redirect_from:
 Thanks for visiting my website!
 ---
 
-I am a graduate student researcher in Brooks King-Casas and Pearl Chiu's labs in the [Computational Psychiatry Unit](https://fbri.vtc.vt.edu/research/research-centers/center-for-human-neuroscience/computational-psychiatry-unit.html) at [Fralin Biomedical Research Institute of Virginia Tech Carillion](https://fbri.vtc.vt.edu/). 
+I am a graduate student researcher in [Brooks King-Casas](https://fbri.vtc.vt.edu/people-directory/primary-faculty/king-casas.html) and [Pearl Chiu](https://fbri.vtc.vt.edu/people-directory/primary-faculty/chiu.html)'s labs in the [Computational Psychiatry Unit](https://fbri.vtc.vt.edu/research/research-centers/center-for-human-neuroscience/computational-psychiatry-unit.html) at [Fralin Biomedical Research Institute of Virginia Tech Carillion](https://fbri.vtc.vt.edu/). 
 
 Talks
 ---
@@ -37,7 +37,7 @@ If you'd like to learn a little about me outside of school, you can check out th
 
 CV
 ---
-Finally, if you're just here because you want to download my CV, click the [CV](https://kelsey-winkeler.github.io/cv/) tab for a PDF.
+Finally, if you're just here because you want to download my CV, click [CV](https://kelsey-winkeler.github.io/files/KW_CV.pdf/) for a PDF.
 
 
 
