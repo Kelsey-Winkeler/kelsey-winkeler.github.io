@@ -14,9 +14,13 @@ Before my PhD, I collaborated on a few interesting studies involving various com
 
 I am also a clinical psychology PhD student at the [Psychological Services Center](https://support.psyc.vt.edu/centers/psc) of Virginia Tech. If you want to learn about my clinical experience and expertise, check out the "Portfolio" tab.
 
-Finally, I previously was an [AmeriCorps](https://americorps.gov/serve) member and a middle and high school science teacher, and I care deeply about education. You can read about my teaching experience under "Teaching". 
+Previously, I was an [AmeriCorps](https://americorps.gov/serve) member and a middle and high school science teacher, and I care deeply about education. You can read about my teaching experience under "Teaching". 
 
 In my free time, I also still provide mentoring and outreach to undergraduates at my alma mater, the College of Wooster, via the [Fighting Scots Career Connections](https://wooster.firsthand.co/) website, as well as a handful of high school students. If you're not a Wooster alum and would like advice about grad school, being a first-generation college student, or anything else, feel free to send me an email, and we can set up a time to chat.
+
+If you'd like to learn a little about me outside of school, you can check out the "Other Pursuits" page.
+
+Finally, if you're just here because you want to download my CV, click the "CV" tab for a PDF.
 
 
 
