@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Clinical Assessment"
+excerpt: "at the Psychological Services Center and Child Assessment Center of Virginia Tech"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+At the PSC, we offer assessments for teenagers 17+ and adults, and specialize in adult ADHD and autism assessments. For more information, visit: https://psyc.vt.edu/centers/psychological-services.html 
+
+At the CAC, we offer comprehensive assessments for children 16 and younger, including assessments for ADHD, autism and specific learning disabilities. For more information, visit: https://childstudycenter.wixsite.com/childstudycenter
+
+Please reach out to request information about my assessment experience.
