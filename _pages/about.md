@@ -13,6 +13,8 @@ Thanks for visiting my website!
 
 I am a graduate student researcher in [Brooks King-Casas](https://fbri.vtc.vt.edu/people-directory/primary-faculty/king-casas.html) and [Pearl Chiu](https://fbri.vtc.vt.edu/people-directory/primary-faculty/chiu.html)'s labs in the [Computational Psychiatry Unit](https://fbri.vtc.vt.edu/research/research-centers/center-for-human-neuroscience/computational-psychiatry-unit.html) at [Fralin Biomedical Research Institute of Virginia Tech Carillion](https://fbri.vtc.vt.edu/). 
 
+Our labs are at the intersection of computer science, neuroscience, clinical psychology, and economics; we design studies that investigate social interactions, psychopathology, and response to treatment using functional magnetic resonance imaging (fMRI) and microeconomic games. A great open access recent example of our lab's work is this paper on [reinforcement learning in depression.](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2782452)
+
 Talks
 ---
 My research focuses on interpersonal interactions in Veterans with PTSD, using economic games and fMRI, and while I haven't published on it (yet), you can learn a little about it under the [Talks](https://kelsey-winkeler.github.io/talks/) tab. 
