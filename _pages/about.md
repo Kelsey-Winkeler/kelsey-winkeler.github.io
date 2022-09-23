@@ -35,7 +35,7 @@ In my free time, I also still provide mentoring and outreach to undergraduates a
 
 Other Pursuits
 ---
-If you'd like to learn a little about me outside of school, you can check out the [Other Pursuits](https://kelsey-winkeler.github.io/outside-of-school/) page.
+If you'd like to learn a little about me outside of school, you can check out the [Other Pursuits](https://kelsey-winkeler.github.io/outside-of-school/) page. Note: Other Pursuits page is currently under construction (9/23/22).
 
 CV
 ---
