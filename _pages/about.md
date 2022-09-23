@@ -25,7 +25,7 @@ Before my PhD, I collaborated on a few interesting studies involving various com
 
 Clinical Portfolio
 ---
-I am also a clinical psychology PhD student at the [Psychological Services Center](https://support.psyc.vt.edu/centers/psc) of Virginia Tech. If you want to learn about my clinical experience and expertise, check out the [Clinical Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
+I am also a clinical psychology PhD student at the [Psychological Services Center](https://support.psyc.vt.edu/centers/psc) of Virginia Tech. Generally, I am a CBT-trained graduate clinician supervised by PhD-level licensed clinical psychologists, and emphasize creating a safe and supportive environment, especially for sexuality-and-gender minoritized people. I have specialized in treatment of child and adolescent trauma, anxiety and mood disorders, as well as adult and child autism, ADHD, and mood/anxiety disorder assessments. For more information about the services Virginia Tech offers, check out the [Clinical Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
 
 Teaching
 ---
