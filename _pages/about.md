@@ -15,6 +15,8 @@ I am a graduate student researcher in [Brooks King-Casas](https://fbri.vtc.vt.ed
 
 Our labs are at the intersection of computer science, neuroscience, clinical psychology, and economics; we design studies that investigate social interactions, psychopathology, and response to treatment using functional magnetic resonance imaging (fMRI) and microeconomic games. A great open access recent example of our lab's work is this paper on [reinforcement learning in depression.](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2782452)
 
+If you want to get in touch, feel free to contact me using the links in the sidebar, or [set up a meeting.](https://calendly.com/kwinkeler/30min)
+
 Talks
 ---
 My research focuses on interpersonal interactions in Veterans with PTSD, using economic games and fMRI, and while I haven't published on it (yet), you can learn a little about it under the [Talks](https://kelsey-winkeler.github.io/talks/) tab. 
