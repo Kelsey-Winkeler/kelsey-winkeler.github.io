@@ -27,7 +27,7 @@ Before my PhD, I collaborated on a few interesting studies involving various com
 
 Clinical Portfolio
 ---
-I am also a clinical psychology PhD student in the [Department of Psychology at Virginia Tech](), and provide services as a graduate student clinician at the [Psychological Services Center](https://support.psyc.vt.edu/centers/psc). Generally, I am a CBT-trained graduate clinician supervised by PhD-level licensed clinical psychologists, and emphasize creating a safe and supportive environment, especially for sexuality-and-gender minoritized people. I have specialized in treatment of child and adolescent ADHD as well as trauma, anxiety and mood disorders. I additionally regularly perform adult and child autism and ADHD assessments. For more information about the services Virginia Tech offers, check out the [Clinical Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
+I'm currently on externship at the [Boston Child Study Center in Portland, Maine,](https://bostonchildstudycentermaine.com/), working under the supervision of [Dr. Michael Hollander](https://bostonchildstudycentermaine.com/michael-hollander) to co-lead a DBT group for adolescents. For more information about my prior clinical experience, check out the [Clinical Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
 
 Teaching
 ---
