@@ -41,7 +41,7 @@ If you'd like to learn a little about me outside of school, you can check out th
 
 CV
 ---
-Finally, if you're just here because you want to download my CV, click [CV](https://github.com/Kelsey-Winkeler/kelsey-winkeler.github.io/blob/files/Academic_CV_Template%20(1).pdf) for a PDF.
+Finally, if you're just here because you want to download my CV, click [CV](https://github.com/Kelsey-Winkeler/kelsey-winkeler.github.io/files/Academic_CV_Template%20(1).pdf) for a PDF.
 
 
 
