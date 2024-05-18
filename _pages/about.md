@@ -37,11 +37,11 @@ In my free time, I also still provide mentoring and outreach to undergraduates a
 
 Other Pursuits
 ---
-If you'd like to learn a little about me outside of school, you can check out the [Other Pursuits](https://kelsey-winkeler.github.io/outside-of-school/) page. Note: Other Pursuits page is currently under construction.
+If you'd like to learn a little about me outside of school, you can check out the [Other Pursuits](https://kelsey-winkeler.github.io/pages/outside-of-school/) page. Note: Other Pursuits page is currently under construction.
 
 CV
 ---
-Finally, if you're just here because you want to download my CV, click [CV](https://github.com/Kelsey-Winkeler/kelsey-winkeler.github.io/files/Academic_CV_Template%20(1).pdf) for a PDF.
+Finally, if you're just here because you want to download my CV, click [CV](https://kelsey-winkeler.github.io/files/Academic_CV_Template%20(1).pdf) for a PDF.
 
 
 
