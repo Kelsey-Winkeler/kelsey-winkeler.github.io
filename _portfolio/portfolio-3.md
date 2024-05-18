@@ -1,6 +1,6 @@
 ---
-title: "Second Year Practicum Experience"
-excerpt: "Experience as a clinician at the Psychological Services Center of Virginia Tech"
+title: "Second Year Virginia Tech Practicum"
+excerpt: "at the Psychological Services Center at Virginia Tech in Blacksburg, VA."
 collection: portfolio
 ---
 
