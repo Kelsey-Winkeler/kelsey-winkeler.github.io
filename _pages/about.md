@@ -27,7 +27,7 @@ Before my PhD, I collaborated on a few interesting studies involving various com
 
 Clinical Portfolio
 ---
-I'm currently on externship at the [Boston Child Study Center in Portland, Maine,](https://bostonchildstudycentermaine.com/), working under the supervision of [Dr. Michael Hollander](https://bostonchildstudycentermaine.com/michael-hollander) to co-lead a DBT group for adolescents. For more information about my prior clinical experience, check out the [Clinical Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
+I am currently an extern specializing in [Parent Child Interaction Therapy](https://www.pcit.org/what-is-pcit.html) at [Carilion Children's](https://www.carilionclinic.org/locations/carilion-childrens-pediatric-behavioral-medicine) in Pediatric Behavioral Medicine, under the supervision of [Dr. Tara Mitchell](https://www.carilionclinic.org/providers/tara-mitchell-phd). I am additionally a graduate student clinician and supervisor at the Psychological Services Center at Virginia Tech, under the supervision of [Dr. Chloe Hudson](https://support.psyc.vt.edu/users/chloehudson). Previously, I was an extern at [Boston Child Study Center in Portland, Maine,](https://bostonchildstudycentermaine.com/), working under the supervision of [Dr. Michael Hollander](https://bostonchildstudycentermaine.com/michael-hollander) to co-lead a DBT group for adolescents. For more information about my prior clinical experience, check out the [Clinical Portfolio](https://kelsey-winkeler.github.io/portfolio/) tab.
 
 Teaching
 ---
@@ -37,7 +37,7 @@ In my free time, I also still provide mentoring and outreach to undergraduates a
 
 Other Pursuits
 ---
-If you'd like to learn a little about me outside of school, you can check out the [Other Pursuits](https://kelsey-winkeler.github.io/outside-of-school/) page. Note: Other Pursuits page is currently under construction (3/27/23).
+If you'd like to learn a little about me outside of school, you can check out the [Other Pursuits](https://kelsey-winkeler.github.io/outside-of-school/) page. Note: Other Pursuits page is currently under construction.
 
 CV
 ---
