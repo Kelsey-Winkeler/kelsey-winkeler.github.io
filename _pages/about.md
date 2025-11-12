@@ -17,6 +17,10 @@ Our labs are at the intersection of computer science, neuroscience, clinical psy
 
 If you want to get in touch, feel free to contact me using the links in the sidebar, or [email me to set up a meeting.](mailto:kwinkeler@vt.edu)
 
+CV
+---
+Click [here](https://kelsey-winkeler.github.io/files/CV_kelsey_winkeler_19100.pdf) for a PDF of my CV!
+
 Research
 ---
 
@@ -50,12 +54,11 @@ Teaching
 ---
 Previously, I was an [AmeriCorps](https://americorps.gov/serve) member and a middle and high school science teacher. This sparked my passion for equity and accessibility in education and healthcare. You can read a little about my teaching experience under "Teaching". 
 
-In my free time, I also still provide mentoring and outreach to undergraduates at my alma mater, the College of Wooster, via the [Fighting Scots Career Connections](https://wooster.firsthand.co/) website, as well as a handful of high school students. If you're not a Wooster alum and would like advice about grad school, being a first-generation college student, or anything else, feel free to send me an email or schedule a Zoom meeting on my [Google Calendar](https://calendar.app.google/MurUNvZRmf8KUbzp7) and we can chat.
+In my free time, I also still provide mentoring and outreach to undergraduates at my alma mater, the College of Wooster, via the [Fighting Scots Career Connections](https://wooster.firsthand.co/) website, as well as a handful of high school students. If you're not a Wooster alum and would like advice about grad school, being a first-generation college student, or anything else, feel free to send me an email and we can chat.
 
-CV
+Other Adventures
 ---
-Finally, if you're just here because you want to download my CV, click [CV](https://kelsey-winkeler.github.io/files/CV_kelsey_winkeler_19100.pdf) for a PDF.
-
+I have a few other interests outside of research. I like to garden and especially enjoy growing [dahlias](https://www.instagram.com/gradstudentgardens/); I recently hybridized some for the first time and will begin growing the seeds next year! I have an excellent rescue [dog](https://www.instagram.com/hero_the_hound/) that likes to go for long walks and sigh dramatically. I've run two marathons (Indianapolis and Maine Coast) and a number of half marathons veeeery slowly; some day, I hope to run a marathon in every state! 
 
 
 
