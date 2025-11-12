@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kelsey Winkeler"
   avatar           : "Untitled.png"
-  bio              : "Grad student, clinician, and dog fanatic."
+  bio              : "Grad student, clinician, and dog person."
   location         : "Roanoke, Virginia"
   employer         : #"Fralin Biomedical Research Institute"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@kelsey_winkeler"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
