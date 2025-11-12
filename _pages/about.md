@@ -15,6 +15,11 @@ I am a graduate student researcher in [Brooks Casas](https://fbri.vtc.vt.edu/peo
 
 Our labs are at the intersection of computer science, neuroscience, clinical psychology, and economics; we design studies that investigate social interactions, psychopathology, and response to treatment using functional magnetic resonance imaging (fMRI) and microeconomic games. A great open access recent example of our lab's work is this paper on [reinforcement learning in depression.](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2782452) 
 
+If you want to get in touch, feel free to contact me using the links in the sidebar, or [email me to set up a meeting.](mailto:kwinkeler@vt.edu)
+
+Research
+---
+
 My dissertation is investigating changes in neural habituation that occur after residential treatment for PTSD in Veterans, using the International Affective Picture System (IAPS). You can read a previous paper published on this by [Dr. Katie McCurry](https://dx.doi.org/10.1016/j.bpsc.2019.09.006)
 
 I am also collaborating with [Vansh Bansal](https://www.linkedin.com/in/vanshbansal/) and [Dr. Dong-Youl Kim](https://scholar.google.com/citations?user=fPtqEJMAAAAJ&hl=ko) on a real-time neurofeedback project leveraging this paradigm to determine whether neural habituation to negative stimuli can be altered in PTSD.
@@ -24,8 +29,6 @@ My preliminary examination was a systematic review of symptom improvement-relate
 My masters thesis uses an iterated Trust Game and functional magnetic resonance imaging to investigate aspects of trust and its neural substrates that are disrupted in Veterans with PTSD. Currently, we are building upon this work using a belief-learning model to understand different aspects of trust: initial expectations, responsiveness to partner behavior, belief learning rate, and altruistic behavior. 
 
 I am also collaborating with Dr. Zhuoya Cui and [Dr. Lusha Zhu](https://www.lushazhu.com/) on a study of Veterans with PTSD that uses a novel economic social competition task and a different belief-learning model to understand the behavioral components driving interpersonal conflict: conflict aversion, inequality aversion, belief learning rate, and social status preference.
-
-If you want to get in touch, feel free to contact me using the links in the sidebar, or [email me to set up a meeting.](mailto:kwinkeler@vt.edu)
 
 Talks
 ---
